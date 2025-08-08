@@ -1,4 +1,6 @@
 .navbar {
+    background-color: #1E3A8A;
+    color: #FFFFFF;
     display: flex;
     justify-content: center;
     gap: 30px;
@@ -14,6 +16,6 @@
   }
   
   .navbar a:hover {
-    color: #007bff;
+    color: #6D28D9;
   }
   

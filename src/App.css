@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+header,
+nav,
+footer {
+    background-color: #1E3A8A;
+    color: #FFFFFF;
+}
+
+button {
+    background-color: #1E3A8A;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+}
+
+button:hover {
+    background-color: #6D28D9;
+}
+
+h1, h2, h3 {
+    font-family: 'Merriweather', serif;
+    color: #ffffff;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+h4, h5, h6 {
+    font-family: 'Merriweather', serif;
+    color: #6D28D9;
+    font-weight: 600;
+    margin-bottom: 8px;
+}

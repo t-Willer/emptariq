@@ -1,13 +1,9 @@
 
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-    background-color: #FFFFFF;
+    margin: 0;
+    background-color: #390851;
     color: #1E1E1E;
+    text-align: center;
     font-family: 'Merriweather', 'Lora', 'Roboto Slab', serif;
 }
 
@@ -23,29 +19,6 @@ a {
 
 a:hover {
     color: #6D28D9;
-}
-
-header,
-nav,
-footer {
-    background-color: #1E3A8A;
-    color: #FFFFFF;
-}
-
-button {
-    background-color: #1E3A8A;
-    color: #FFFFFF;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 6px;
-}
-
-button:hover {
-    background-color: #6D28D9;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    color: #1E3A8A;
 }
 
 .section-title {

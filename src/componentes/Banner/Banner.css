@@ -1,7 +1,8 @@
 .banner {
-    background-color: #007bff;
-    color: white;
-    padding: 40px;
+    background-color: #6D28D9;
+    color: #FFFFFF;
+    font-family: 'Merriweather', 'Lora', 'Roboto Slab', serif;
+    padding: 123px;
     text-align: center;
     border-radius: 8px;
   }
