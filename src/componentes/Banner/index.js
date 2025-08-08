@@ -3,8 +3,8 @@ import './Banner.css';
 function Banner() {
   return (
     <div className="banner">
-      <h1>Bem-vindo ao Meu Site!</h1>
-      <p>Esse é um banner simples em React</p>
+      <h1>Bem-vindo ao VocêAcadêmico!</h1>
+      <p>O seu melhor amigo dos estudos.</p>
     </div>
   );
 }

@@ -1,9 +1,10 @@
 .banner {
     background-color: #6D28D9;
     color: #FFFFFF;
-    font-family: 'Merriweather', 'Lora', 'Roboto Slab', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding: 123px;
     text-align: center;
     border-radius: 8px;
+    margin: 23px;
   }
   

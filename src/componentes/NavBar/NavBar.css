@@ -1,12 +1,13 @@
 .navbar {
     background-color: #1E3A8A;
-    color: #FFFFFF;
+    color: #ffffff;
     display: flex;
     justify-content: center;
     gap: 30px;
-    background-color: #eee;
+    background-color: #c4ffcb;
     padding: 15px;
     border-bottom: 1px solid #ccc;
+    font-family: monospace;
   }
   
   .navbar a {

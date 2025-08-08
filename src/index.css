@@ -4,7 +4,8 @@ body {
     background-color: #390851;
     color: #1E1E1E;
     text-align: center;
-    font-family: 'Merriweather', 'Lora', 'Roboto Slab', serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-bottom: 60px;
 }
 
 code {
@@ -23,4 +24,9 @@ a:hover {
 
 .section-title {
     color: #6D28D9;
+}
+
+p{
+    justify-content: center;
+    text-align: center;
 }
