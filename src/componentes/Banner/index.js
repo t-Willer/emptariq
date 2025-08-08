@@ -4,7 +4,8 @@ function Banner() {
   return (
     <div className="banner">
       <h1>Bem-vindo ao VocêAcadêmico!</h1>
-      <p>O seu melhor amigo dos estudos.</p>
+      <p>A sua melhor amiga dos estudos.</p>
+      <p>serviços de I.A</p>
     </div>
   );
 }
